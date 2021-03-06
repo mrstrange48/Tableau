@@ -1,0 +1,5 @@
+Citi Bike Rental Data: https://public.tableau.com/profile/gene.strange#!/vizhome/GeneBIKE/Story1?publish=yes 
+1.	Data visualization one highlights where each bike started rental and ended rental by day of the week.  
+2.	Data visualization two illustrates the total number of bikes rented by each user type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
+3.	Data visualization three explains the total trip duration in seconds for each rented bike. 
+4.	Data visualization four describes the total number of bikes rented by year of birth.  
